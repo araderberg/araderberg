@@ -19,6 +19,14 @@
 - 🌱 I’m currently learning APIs using Python, Pandas, Jupiter, R coding, Data Visualization, and Machine Learning...
 - 💞️ I’m looking to collaborate on clinical research / data management projects.
 - 📫 How to reach me: datamanagersasprogrammer [at] protonmail [dot] ch
+- 🔗 Other resources:
+  [Visit my blog](https://aaliyahraderberg.wordpress.com/) | 
+  [Visit my Data Visualizaton projects](https://public.tableau.com/app/profile/aaliyahraderberg/vizzes) | [LinkedIn](https://www.linkedin.com/in/ikhouvanwesties/)
+  
+ <p align="left">
+  <img src="https://github.com/araderberg/Certificates/blob/main/google.png" width="350" title="Google Data Analytics Certification-2024">
+ </p>
+ 
 
 <!---
 araderberg/araderberg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
