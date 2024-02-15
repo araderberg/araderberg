@@ -23,11 +23,10 @@
   [Visit my blog](https://aaliyahraderberg.wordpress.com/) | 
   [Visit my Data Visualizaton projects](https://public.tableau.com/app/profile/aaliyahraderberg/vizzes) | [LinkedIn](https://www.linkedin.com/in/ikhouvanwesties/)
   
- <p align="left">
+ <p align="center">
   <img src="https://github.com/araderberg/Certificates/blob/main/google.png" width="350" title="Google Data Analytics Certification-2024">
+  <img src="https://github.com/araderberg/Certificates/blob/main/google_auto.png" width="350" title="Google IT Automation with Python Certification-2024">
  </p>
- 
-
 <!---
 araderberg/araderberg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
