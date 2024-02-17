@@ -8,19 +8,33 @@
   <img src="current_projects.png" width="350" alt="Projects">
 </p>
 
+</pre>
+⚙️ Languages and Tools :
+
+💻Programming : Python SAS R
+
+🖴 Databases: PostgreSQL Mysql SQLite ❄️Snowflake 
+
+☁🌨️ Cloud : AWS GCP 
+
+📈Data & ML: Scikitlearn Keras Powerbi Tableau
+
+🕸️Web Dev : HTML5 CSS3 Javascript Streamlit
+
+⛏️ Tools : Git GitLab Jira
 
 
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdddd)](https://www.python.org/)
-[![SAS](https://img.shields.io/badge/sas-3670A0?style=for-the-badge&logo=sas&logoColor=ffdddd)](https://www.sas.org/)
-[![R](https://img.shields.io/badge/r-3670A0?style=for-the-badge&logo=r&logoColor=ECF0F1)](https://www.r-project.org/)
+
 --------------------------------------------------------------
 - 👋 Hi, I’m @araderberg
 - 👀 I’m interested in collaborating in projects using Python, SAS or any clinical research application.
 - 🌱 I’m currently learning APIs using Python, Pandas, Jupiter, R coding, Data Visualization, and Machine Learning...
 - 💞️ I’m looking to collaborate on clinical research / data management projects.
 - 📫 How to reach me: datamanagersasprogrammer [at] protonmail [dot] ch
-- 🔗 Other resources:
-  [Visit my blog](https://aaliyahraderberg.wordpress.com/) | 
+
+
+> 🔗 Other resources:
+> [Visit my blog](https://aaliyahraderberg.wordpress.com/) | 
   [Visit my Data Visualizaton projects](https://public.tableau.com/app/profile/aaliyahraderberg/vizzes) | [LinkedIn](https://www.linkedin.com/in/ikhouvanwesties/)
   
  <p align="center">
