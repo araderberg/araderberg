@@ -23,7 +23,7 @@
 
 ⛏️ Tools : Git GitLab Jira
 
-
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S0U7OZ0)
 
 --------------------------------------------------------------
 - 👋 Hi, I’m @araderberg
