@@ -4,38 +4,38 @@
 
 
 <p align="center">
-  <img src="careerpath.png" width="350" title="Career Path">
+  
   <img src="current_projects.png" width="350" alt="Projects">
 </p>
 
 </pre>
 ⚙️ Languages and Tools :
 
-💻Programming : Python SAS R
+💻Programming : Python SAS R SQL
 
-🖴 Databases: PostgreSQL Mysql SQLite ❄️Snowflake 
+🖴 Databases: PostgreSQL Mysql SQLite ❄️Snowflake Oracle SQLServer
 
 ☁🌨️ Cloud : AWS GCP 
 
 📈Data & ML: Scikitlearn Keras Powerbi Tableau
 
-🕸️Web Dev : HTML5 CSS3 Javascript Streamlit
+🕸️Web Dev : HTML5 CSS3 Javascript Streamlit ReactPy Django
 
 ⛏️ Tools : Git GitLab Jira
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S0U7OZ0)
 
 --------------------------------------------------------------
-- 👋 Hi, I’m @araderberg
+- 👋 Hi, I’m Aaliyah Raderberg
 - 👀 I’m interested in collaborating in projects using Python, SAS or any clinical research application.
 - 🌱 I’m currently learning APIs using Python, Pandas, Jupiter, R coding, Data Visualization, and Machine Learning...
 - 💞️ I’m looking to collaborate on clinical research / data management projects.
-- 📫 How to reach me: datamanagersasprogrammer [at] protonmail [dot] ch
+- 📫 How to reach me: aaliyah.raderberg [at] proton [dot] me
 
 
 > 🔗 Other resources:
 > [Visit my blog](https://aaliyahraderberg.wordpress.com/) | 
-  [Visit my Data Visualizaton projects](https://public.tableau.com/app/profile/aaliyahraderberg/vizzes) | [LinkedIn](https://www.linkedin.com/in/ikhouvanwesties/)
+  [Visit my Data Visualizaton projects](https://public.tableau.com/app/profile/aaliyahraderberg/vizzes) | [LinkedIn](https://www.linkedin.com/in/aaliyahraderberg/) | [Kaggle](https://www.kaggle.com/aaliyahraderberg)
   
   
  <p align="center">
