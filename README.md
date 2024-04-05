@@ -39,9 +39,12 @@
   
   
  <p align="center">
-   <img src="RaveCertifiedProfessional.jpg" width="350" title="Medidata Rave Study Builder & Administrator Certification-2013">
-  <img src="https://github.com/araderberg/Certificates/blob/main/google.png" width="350" title="Google Data Analytics Certification-2024">
-  <img src="https://github.com/araderberg/Certificates/blob/main/google_auto.png" width="350" title="Google IT Automation with Python Certification-2024">
+   <a href="https://coursera.org/share/4bd704299df7f6ad27697d40eb306f65"><img src="https://github.com/araderberg/Certificates/blob/main/powerbi.png" width="450" title="Microsoft Power BI Certification-2024"></a>
+   <img src="RaveCertifiedProfessional.jpg" width="250" title="Medidata Rave Study Builder & Administrator Certification-2013"></p>
+
+ <p align="center">
+  <a href="https://www.credly.com/badges/cacc11e1-3905-4eb1-9801-210b4c6735a3/public_url"> <img src="https://github.com/araderberg/Certificates/blob/main/google.png" width="350" title="Google Data Analytics Certification-2024" alt="W3Schools.com"></a>
+   <a href="https://www.credly.com/badges/ba115af9-175e-4e63-b6f2-9f936d260487/public_url"> <img src="https://github.com/araderberg/Certificates/blob/main/google_auto.png" width="350" title="Google IT Automation with Python Certification-2024"></a>
  </p>
  
  
