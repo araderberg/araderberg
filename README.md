@@ -1,7 +1,13 @@
-<p align="center">
-  <img src="career_timeline.png" width="550" title="Career Timeline">
-</p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=araderberg&rank_icon=github&theme=cobalt" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=araderberg&layout=compact&langs_count=8&card_width=320" />
+</a>
 
+<p align="center">
+  <img src="career_timeline.png" width="550" title="Career Timeline">
+</p>
 
 <p align="center">
   
